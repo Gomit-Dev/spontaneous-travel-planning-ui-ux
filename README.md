@@ -28,31 +28,31 @@ Drifto offers a **mood-based discovery system** that suggests hidden spots, secr
 
 ## 📸 **Screenshots**
 
-### 1️⃣ Mood Selection Screen
+### 1️⃣ Mood Selection Screen  
 Easily pick your mood for personalized suggestions.
 
-![Mood Selection](Screenshot 2025-07-16 093024.png)
+![Mood Selection](assets/screenshots/Screenshot-2025-07-16-093024.png)
 
 ---
 
 ### 2️⃣ Destination Discovery Screen  
 Explore suggested destinations and hidden gems.
 
-![Destination Discovery](Screenshot 2025-07-16 093042.png)
+![Destination Discovery](assets/screenshots/Screenshot-2025-07-16-093042.png)
 
 ---
 
 ### 3️⃣ Navigation  
-Navigation to destination
+Navigate smoothly to your chosen destination.
 
-![Navigation Screen](Screenshot 2025-07-16 093032.png)
+![Navigation Screen](assets/screenshots/Screenshot-2025-07-16-093032.png)
 
 ---
 
 ### 4️⃣ Interactive Card UI  
 Smooth animations and interactive elements for an engaging experience.
 
-![Interactive Cards](Screenshot 2025-07-16 093042.png)
+![Interactive Cards](assets/screenshots/Screenshot-2025-07-16-093042.png)
 
 ---
 
